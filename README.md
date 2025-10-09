@@ -2,7 +2,7 @@
 <h3 align="center">A creative, fast learner, determined, straight forward person with over 5 years of professional experience as Software Developer</h3>
 
 - 🔭 Lead Dev of an ai project, [zarfix.ai](https://zarfix.ai/)
-- 
+
 - 🔭 Creator of a city-based livechat app, [orbitivy.com](https://orbitivy.com/)
 
 - 👨‍💻 For detailed information about my profile, visit [https://danangs57.github.io/](https://danangs57.github.io/)
